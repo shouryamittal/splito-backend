@@ -1,0 +1,12 @@
+{
+  "test":{
+    "PORT": 3000,
+    "DB_URL":"mongodb://localhost:27017/splito_test_db"
+  },
+
+  "development":{
+    "PORT": 3000,
+    "DB_URL":"mongodb://localhost:27017/splito_db"
+  }
+  
+}
